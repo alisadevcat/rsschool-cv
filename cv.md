@@ -2,7 +2,7 @@
 
 ### Discord nickname: Alisa (@alisadevcat)
 
-![me](round.png "my photo")
+![me](round.png "My photo")
 
 ## My Contact Info
 * **Location:** Tbilisi, Georgia
@@ -44,20 +44,16 @@ function openOrSenior(data){
 ```
 
 ## Work Experience
-* 01/2021 – now
+* 01/2021 – now <br>
+**Forward Website Development| Boston, The USA** - web developer
 
-    + __Forward Website Development| Boston, The USA__ - web developer
-
-* 09/2020 – 12/2020
-
-    + __Ardisi LLC | Saint Petersburg, Russia__ - web developer
+* 09/2020 – 12/2020 <br>
+**Ardisi LLC | Saint Petersburg, Russia** - web developer
 
 ## Education
-* __Penza State Pedagogical University__ | Penza, Russia
-
+* **Penza State Pedagogical University** | Penza, Russia
     + Specialist in Linguistics, 2012
-* __ITMO University__ | Saint Petersburg, Russia
-
+* **ITMO University** | Saint Petersburg, Russia
     + Course: Web Development, Feb 2020 – Aug 2020
 
 ## Languages

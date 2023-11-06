@@ -45,15 +45,15 @@ function openOrSenior(data){
 
 ## Work Experience
 * 01/2021 – now <br>
-**Forward Website Development| Boston, The USA** - web developer
+**Forward Website Development, Boston, The USA** - web developer
 
 * 09/2020 – 12/2020 <br>
-**Ardisi LLC | Saint Petersburg, Russia** - web developer
+**Ardisi LLC , Saint Petersburg, Russia** - web developer
 
 ## Education
-* **Penza State Pedagogical University** | Penza, Russia
+* **Penza State Pedagogical University**, Penza, Russia
     + Specialist in Linguistics, 2012
-* **ITMO University** | Saint Petersburg, Russia
+* **ITMO University**, Saint Petersburg, Russia
     + Course: Web Development, Feb 2020 – Aug 2020
 
 ## Languages
